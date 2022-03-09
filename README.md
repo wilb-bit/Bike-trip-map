@@ -1,8 +1,13 @@
 # Bike trip map
-My mum completed a 6 month solo bikepacking trip from Guatemala to the bottom of South America. Cycling a total of 12,000km.  
-I created a map showing the route of the trip using Rstudio.  
-This used images from Stamen Maps (access with its API).  
-Details on the book can be found at the following website (map is on the front page).  
+My mum completed a 6 month solo bikepacking trip from Guatemala to the bottom of South America in 2019.
+She raised money and awareness for the 'Fight Cancer Foundation'.  
+https://www.instagram.com/ride2fightcancer/  
+https://www.instagram.com/fightcancerau/  
+This involved cycling a total of 12,000km.  After this she wrote a book about her expereince.
+
+I created a map of the route that is both in the book and on the website.  
+The map was created using Rstudio and images from Stamen Maps (access with its API).  
+Details on the book can be found at the following website (map is on the front page of the website).  
 https://www.leoniekatekar.com/
 
 
