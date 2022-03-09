@@ -1,4 +1,4 @@
-# Bike trip map
+# Map of bikepacking trip
 My mum completed a 6 month solo bikepacking trip from Guatemala to the bottom of South America in 2019.
 She raised money and awareness for the 'Fight Cancer Foundation'.  
 https://www.instagram.com/ride2fightcancer/  
