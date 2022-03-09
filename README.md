@@ -7,4 +7,7 @@ https://www.leoniekatekar.com/
 
 
 ## Code
-
+'Antigua to Argentina Revised Route2.xlsx' contains location data of the trip (long and lat).   
+route_mum2.R loads the data and creates an image using Stamen Maps (access with its API).  
+Image is exported to 'mumtrip.png'.  
+Labels of signficant places were then added manually to create the final image 'mumtripfinal.png'
