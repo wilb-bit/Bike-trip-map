@@ -1,9 +1,9 @@
-# Map of bikepacking trip
+# When We're Not Afraid
 My mum completed a 6 month solo bikepacking trip from Guatemala to the bottom of South America in 2019.
 She raised money and awareness for the 'Fight Cancer Foundation'.  
 https://www.instagram.com/ride2fightcancer/  
 https://www.instagram.com/fightcancerau/  
-This involved cycling a total of 12,000km.  After this she wrote a book about her expereince.
+This involved cycling a total of 12,000km.  After this she wrote a book about her experience (When We're Not Afraid).
 
 I created a map of the route that is both in the book and on the website.  
 The map was created using Rstudio and images from Stamen Maps (access with its API).  
